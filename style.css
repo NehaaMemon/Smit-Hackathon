@@ -517,7 +517,7 @@
         }
         .newsletter-image:nth-child(3) {
             top: 100px;
-            left: 10%;
+            left: 19%;
             transform: translate(-50%, 0) rotateX(10deg) rotateY(-15deg);
             z-index: 1;
             width: 240px;
